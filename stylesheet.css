@@ -1,1 +1,14 @@
-place holder
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th {
+    background-color: #CFB53B;
+    color: black;
+}
+table {
+    width: 1000px;
+}
+body {
+	font-family: Tahoma, Verdana, sans-serif; 
+}
